@@ -1,0 +1,22 @@
+{
+  "name": "treinaplaywright",
+  "version": "1.0.0",
+  "description": "Treinamento com os QA da GFT",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiraOliveira/treinaPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiraOliveira/treinaPlaywright/issues"
+  },
+  "homepage": "https://github.com/KiraOliveira/treinaPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.24"
+  }
+}
